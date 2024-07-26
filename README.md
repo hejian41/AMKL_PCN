@@ -7,4 +7,4 @@ Single-cell RNA sequencing analysis of human AMKL-PCN patient.
 Scripts of custom codes used in analysis the scRNA-seq data of AMKL-PCN patient before and after anti-CD38 treatment.
 
 ## Related to
-The matrices and Rdata are deposited in figshare: 
+The matrices and Rdata are deposited in figshare: https://doi.org/10.6084/m9.figshare.26379175.v1
